@@ -1,3 +1,21 @@
+Phil Zach Notes:
+- This was a challenging assignment.  While the activities gave some examples of code,
+there were some items that required more Google research.
+- I like the ability to post our work online however it was not intuitive on how to add 
+our files to the IO site.
+- It was not clear to me how to capture the work in progress, I did include some 
+notepad copies of my code for reference.
+- It was cool to be able to convert the dataframe from the Weather project to an HTML.
+
+
+Thanks,
+Phil
+
+
+
+
+
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
